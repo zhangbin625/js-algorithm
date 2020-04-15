@@ -1,4 +1,4 @@
-/节点
+//节点
 class Node {
     constructor(ele) {
         this.data = ele
